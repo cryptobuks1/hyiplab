@@ -1,2 +1,1 @@
-HyipLab engine.
-https://hyiplab.net# hyiplab
+HYIP engine
