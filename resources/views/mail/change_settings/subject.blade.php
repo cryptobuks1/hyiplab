@@ -1,0 +1,1 @@
+{{ __('email_subject') }}

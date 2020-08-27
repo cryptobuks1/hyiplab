@@ -1,0 +1,54 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/10/2018 15:13
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/fonts2/Flaticon.eot");
+  src: url("../fonts/fonts2/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/fonts2/Flaticon.woff") format("woff"),
+       url("../fonts/fonts2/Flaticon.ttf") format("truetype"),
+       url("../fonts/fonts2/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-profile:before { content: "\f100"; }
+.flaticon-purse:before { content: "\f101"; }
+.flaticon-file:before { content: "\f102"; }
+.flaticon-calendar:before { content: "\f103"; }
+.flaticon-envelope:before { content: "\f104"; }
+.flaticon-settings:before { content: "\f105"; }
+.flaticon-help:before { content: "\f106"; }
+.flaticon-padlock:before { content: "\f107"; }
+.flaticon-turn-off:before { content: "\f108"; }
+.flaticon-notification:before { content: "\f109"; }
+.flaticon-search:before { content: "\f10a"; }
+.flaticon-progress-report:before { content: "\f10b"; }
+.flaticon-four-grid-layout-design-interface-symbol:before { content: "\f10c"; }
+.flaticon-movie-tickets:before { content: "\f10d"; }
+.flaticon-living-room-books-group:before { content: "\f10e"; }
+.flaticon-notebook-of-contacts:before { content: "\f10f"; }
+.flaticon-diamond-outlined-shape:before { content: "\f110"; }
+.flaticon-invoice:before { content: "\f111"; }
+.flaticon-route:before { content: "\f112"; }
+.flaticon-support:before { content: "\f113"; }
+.flaticon-user-silhouette:before { content: "\f114"; }
+.flaticon-analytics:before { content: "\f115"; }
+.flaticon-security-on:before { content: "\f116"; }

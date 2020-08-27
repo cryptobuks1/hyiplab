@@ -1,0 +1,1625 @@
+
+@media (max-width: 1750px){
+	.banner_img_top{
+		left:-180px;
+	}
+	.carousel-nevigation{
+		bottom:30%;
+		left:300px;
+	}
+	.top_header_right_wrapper p{
+		font-size:16px;
+	}
+	.inner_header_wrapper .top_header_right_wrapper p{
+		margin-left:-30px;
+	}
+}
+
+@media (max-width: 1700px){
+	.inner_header_wrapper .top_header_right_wrapper p{
+		margin-left:-50px;
+	}
+	.dashboard_header{
+		width:auto;
+	}
+	.page_title_section{
+		margin-top:89px;
+	}
+	.l-sidebar{
+		top:195px;
+	}
+	.account_top_information{
+		margin-top:196px;
+	}
+	.fixed_portion{
+		margin-top:200px;
+	}
+	.index3_about_img_wrapper{
+		right:-20px;
+	}
+}
+@media (max-width: 1650px){
+	.cp_navi_main_wrapper{
+		padding:20px 0 0 0 ;
+	}
+	.carousel-nevigation {
+		bottom: 30%;
+		left: 258px;
+	}
+	.start_invest_wrap{
+		right:-40%;
+	}
+	.zero_commisition:after{
+		right:-48%;
+	}
+	.work_content_wrap{
+		padding-left:30px;
+	}
+	.inner_header_wrapper .top_header_right_wrapper p {
+		margin-left: -54px;
+	}
+	.dashboard_header_middle{
+		padding-bottom:7px;
+	}
+	.logo__txt{
+		padding:22px 20px;
+	}
+	.dashboard_header .mainmenu ul li a{
+		padding-top:17px;
+	}
+	.index3_sliderbg{
+		right:-250px;
+	}
+	.index3_about_img_wrapper{
+		right:-20px;
+	}
+}
+@media (max-width: 1500px){
+	.profile_list li .detail_left_part{
+		width:50%;
+	}
+	.release{
+		width:80%;
+	}
+	.banner_img_wrapper{
+		width:700px;
+	}
+	.banner_cnctnt_wrapper{
+		width:calc(100% - 700px);
+		padding-top:100px;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-indicators{
+		margin-left:0;
+	}
+	
+}
+@media (max-width: 1550px){
+	.cp_logo_wrapper{
+		width:15%;
+	}
+	.cp_navigation_wrapper{
+		width:55%;
+	}
+	.top_header_right_wrapper{
+		width:30%;
+	}
+	.banner_img_top {
+		left: -350px;
+	}
+	.start_invest_wrap{
+		right:-34%;
+	}
+	.zero_commisition:after{
+		right:-44%;
+	}
+	.top_header_right_wrapper p{
+		margin-left:-20px;
+	}
+	.carousel-nevigation {
+		bottom: 30%;
+		left: 180px;
+	}
+	.dashboard_header{
+		width:auto;
+	}
+}
+@media (max-width: 1500px){
+	.top_header_right_wrapper p{
+		display:none;
+	}
+	.cp_logo_wrapper, .top_header_right_wrapper{
+		width:20%;
+	}
+	.cp_navigation_wrapper{
+		width:60%;
+	}
+	.carousel-nevigation {
+		bottom: 30%;
+		left: 166px;
+	}
+	.slider_main_img_wrapper img{
+		width:500px;
+	}
+	.slider_main_img_wrapper{
+		bottom:78px;
+	}
+	.banner_img_top {
+		left: -430px;
+	}
+	.about_us_wrapper{
+		padding-top:80px;
+	}
+	.dashboard_header{
+		width:auto;
+	}
+	.dashboard_right_Wrapper{
+		width:auto;
+	}
+	.index2_sliderbg{
+		right:-130px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-indicators{
+		margin-left:13%;
+	}
+	.index2_sliderbg {
+		right: -286px;
+	}
+}
+@media (max-width: 1400px){
+	.carousel-nevigation {
+		left: 122px;
+	}
+	.start_invest_wrap {
+		right: -24%;
+	}
+	.zero_commisition:after{
+		display:none;
+	}
+	.header_btn li:first-child a{
+		width:110px;
+	}
+	.header_btn li:last-child a{
+		width:110px;
+	}
+	.user_transcation{
+		width:24%;
+	}
+	.invest_td1{
+		width:62%;
+	}
+	.radio{
+		margin-right:0;
+		width:180px;
+	}
+	.dashboard_header .mainmenu ul li a{
+		padding-top: 17px;
+		padding-bottom: 25px;
+		padding-right:13px;
+		padding-left:13px;
+	}
+	.useriimg{
+		width:15%;
+	}
+	.userdet{
+		width:35%;
+	}
+	.user_transcation{
+		width:25%;
+	}
+}
+@media (max-width: 1300px){
+	.header_btn li:first-child a{
+		width:110px;
+	}
+	.header_btn li:last-child a{
+		width:110px;
+	}
+	.carousel-nevigation {
+		left: 86px;
+	}
+	.start_invest_wrap{
+		right:-16%;
+	}
+	.mainmenu ul li a{
+		padding:20px 13px;
+	}
+	.banner_img_top {
+		left: -536px;
+	}
+	.slider_main_img_wrapper img{
+		width:100%;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2{
+		margin-bottom:14px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h3{
+		margin-bottom:20px;
+	}
+	.dashboard_header .mainmenu ul li a{
+		padding-top: 17px;
+		padding-bottom: 25px;
+		padding-right:9px;
+		padding-left:9px;
+	}
+	.index2_sliderbg {
+		right: -198px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3, .slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3 span{
+		font-size:46px;
+		margin-bottom:50px;
+	}
+	.sw_disc_img_btm{
+		left:70px;
+	}
+	.index2_abt_img_wrapper{
+		left:30px;
+	}
+	.calculator_index2 .graph-area{
+		width:75%;
+	}
+	.index2_sliderbg {
+		right: -292px;
+	}
+}
+@media (max-width: 1255px){
+	.invest_td1{
+		width:55%;
+	}
+	.investment_icon_wrapper h1{
+		font-size:22px;
+	}
+	.investment_icon_wrapper i{
+		font-size:22px;
+		width:40px;
+	}
+}
+@media (max-width: 1230px){
+	.useriimg{
+		padding-right:30px
+	}
+	.invest_td1 {
+		width: 53%;
+	}
+}
+@media (max-width: 1250px){
+	.carousel-nevigation{
+		left:50px;
+	}
+	.slider_main_img_wrapper{
+		bottom:130px;
+	}
+	.about_us_wrapper{
+		padding-top:70px;
+	}
+	.dashboard_header .mainmenu ul li a{
+		padding-top: 17px;
+		padding-bottom: 25px;
+		padding-right:8px;
+		padding-left:8px;
+	}
+	.useriimg img{
+		width:100%;
+	}
+}
+
+@media (max-width: 1199px) and (min-width: 991px){
+	.top_header_right_wrapper{
+		display:none;
+	}
+	.cp_logo_wrapper{
+		width:25%;
+	}
+	.cp_navigation_wrapper{
+		width:75%;
+	}
+	.main_nav_ul{
+		float:right;
+	}
+	.banner_img_top{
+		top:-40px;
+		left: -380px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h3{
+		font-size:50px;
+	}
+	.investment_plans{
+		padding-bottom:20px;
+	}
+	.calc{
+		padding-left:0;
+	}
+	.global_comm_wraper{
+		width:100%;
+	}
+	.zero_balance_wrapper{
+		width:100%;
+	}
+	.global_comm_wraper{
+		padding-bottom:50px;
+	}
+	.zero_balance_wrapper:after{
+		display:none;
+	}
+	.zero_balance_wrapper{
+		padding-top:60px;
+	}
+	.work_banner_wrapper{
+		width:100%;
+		min-height:auto;
+	}
+	.work_banner_wrapper img{
+		min-height:auto;
+	}
+	.investment_content_wrapper h1 a{
+		font-size:22px;
+	}
+	.howwork_banner_wrapper{
+		width:100%;
+		padding-top:100px;
+		min-height:300px;
+	}
+	.wrapper_second_useful h4{
+		font-size:20px;
+	}
+	.investors_wrapper{
+		padding-bottom:75px;
+	}
+	.investment_box_wrapper{
+		margin-bottom:100px;
+	}
+	.investors_wrapper .investment_box_wrapper{
+		margin-bottom:0;
+	}
+	.howwork_banner_wrapper{
+		min-height:280px;
+	}
+	.our_services_wrapper{
+		padding-bottom:0;
+	}
+	.sv_abt_img_wrapper img, .blog_image_single img{
+		width:100%;
+	}
+	.border_about_wrapper{
+		padding:30px;
+	}
+	.sv_abt_content_wrapper{
+		padding-bottom:30px;
+	}
+	.sv_money_text_wrapper h2{
+		font-size:46px;
+		line-height:50px;
+	}
+	.blog_image_single{
+		width:100%;
+	}
+	.blog_text_single{
+		width:100%;
+		padding-left:0;
+		padding-top:25px;
+	}
+	.tb_btm_link_right{
+		float:left;
+		padding-top:20px;
+	}
+	.login_form_wrapper{
+		padding:80px 70px 78px 70px;
+	}
+	.register_wrapper{
+		padding:50px 19px 40px 43px;
+	}
+	.crm_top_toggle_wrapper{
+		width:75%;
+	}
+	.crm_top_toggle_right_wrapper{
+		width:25%;
+	}
+	.crm_message_dropbox_wrapper{
+		padding-right:4px;
+	}
+	.useriimg{
+		padding-right:20px;
+		width:10%;
+	}
+	.userdet{
+		width:40%;
+	}
+	.user_transcation {
+		width: 24%;
+	}
+	.profile_list li .detail_left_part{
+		width:53%;
+	}
+	.sv_pricing_border{
+		margin-bottom:70px;
+	}
+	.payment_mode_wrapper{
+		padding-top:0;
+	}
+	.view_profile_wrapper .profile_list{
+		margin:0;
+	}
+	.release{
+		width:100%;
+	}
+	.banner_img_wrapper{
+		width:500px;
+	}
+	.banner_cnctnt_wrapper{
+		width:calc(100% - 500px);
+		padding-top:70px;
+	}
+	.useriimg img{
+		width:100%;
+	}
+	.dashboard_header .main_nav_ul{
+		float:left;
+	}
+	.dashboard_title{
+		padding-left:11px;
+	}
+	.dashboard_right_Wrapper{
+		display:block;
+	}
+	.crm_profile_dropbox_wrapper{
+		display:none;
+	}
+	.dashboard_right_Wrapper{
+		width:auto;
+	}
+	.crm_mess_all_main_box_wrapper p, .crm_mess_img_cont_wrapper p{
+		display:block;
+	}
+	.crm_customer_table_main_wrapper  .table thead th{
+		font-size:14px;
+	}
+	.crm_customer_table_main_wrapper  table.dataTable thead th, .crm_customer_table_main_wrapper  table.dataTable thead td{
+		padding:10px;
+	}
+	.banner_img_wrapper{
+		width:100%;
+		margin-bottom:0;
+	}
+	.banner_cnctnt_wrapper{
+		width:100%;
+		padding-top:30px;
+		padding-left:0;
+		padding-bottom:70px;
+	}
+	.banner_cnctnt_wrapper:last-child{
+		padding-bottom:30px;
+	}
+	.dashboard_header{
+		width:auto;
+	}
+	.index2_sliderbg{
+		display:none;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .caption-1, .slider_index2_wrapper .carousel-inner .carousel-item .caption-2, .slider_index2_wrapper  .carousel-inner .carousel-item .caption-3{
+		min-height:750px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content{
+		padding-top:140px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-indicators{
+		margin-left:4%;
+		bottom:16%;
+	}
+	.index2_abt_img_wrapper{
+		position:relative;
+		margin-bottom:120px;
+	}
+	.index2_about_us_wrapper{
+		padding-bottom:100px;
+	}
+	.index2_investment_box_Wraper, .index2_service_box{
+		margin-bottom:50px;
+	}
+	.index2_our_service_wrapper{
+		padding-bottom:50px;
+	}
+	.index2_inves_slider_cntnt{
+		padding:10px;
+	}
+	.slider_index3_wrapper{
+		margin-top:0;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h3{
+		margin-bottom:15px;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2:before{
+		left:35%;
+	}
+	.index3_about_img_wrapper{
+		display:none;
+	}
+	.index2_global_community_wrapper {
+		padding-bottom:100px;
+	}
+	.index3_investment_box{
+		padding:0;
+	}
+}
+
+@media (max-width: 1120px){
+	.crm_message_dropbox_wrapper{
+		padding-left:0;
+	}
+	.dashboard_header .mainmenu ul li a{
+		padding-top: 17px;
+		padding-bottom: 25px;
+		padding-right:6px;
+		padding-left:6px;
+	}
+}
+@media (max-width: 1045px){
+	.crm_message_dropbox_wrapper .nice-select i:before{
+		font-size:16px;
+	}
+	.crm_profile_dropbox_wrapper .current{
+		font-size:14px;
+	}
+	dl.userdescc dt{
+		font-size:14px;
+	}
+	.crm_customer_table_main_wrapper .table td, .crm_customer_table_main_wrapper .table th{
+		padding-left:10px;
+	}
+	.userdet{
+		width:42%;
+	}
+	.user_transcation {
+		width: 24%;
+	}
+	
+	
+}
+@media(min-width: 768px) and (max-width: 992px){
+	
+}
+@media (max-width: 991px){
+	.top_header_right_wrapper, .slider_main_img_wrapper, .banner_img_top{
+		display:none;
+	}
+	.house_toggle .menubar {
+		fill: #fff;
+	}
+	.inner_toggle .menubar {
+		fill: #00aaef;
+	}
+	.cd-dropdown{
+		width:350px;
+	}
+	.cd-dropdown-wrapper{
+		padding-top:16px;
+		margin-right:-20px;
+	}
+	.slider-area{
+		background:#00aaef;
+	}
+	.slider-area .carousel-inner .carousel-item .caption-1, .slider-area .carousel-inner .carousel-item .caption-2, .slider-area .carousel-inner .carousel-item .caption-3{
+		min-height:720px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content{
+		padding-top:240px;
+	}
+	.carousel-nevigation {
+		left: 131px;
+		bottom:26%;
+	}
+	.about_img_wrapper{
+		float:left;
+	}
+	.about_img_wrapper img{
+		float:left;
+		width:100%;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h3{
+		font-size:50px;
+		line-height:60px;
+	}
+	.about_img_wrapper:before{
+		left:auto;
+		right:-49px;
+	}
+	.about_us_wrapper{
+		padding-top:100px;
+	}
+	.about_content_wrapper{
+		padding-left:0;
+	}
+	.about_content_wrapper{
+		padding-top:100px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h3{
+		margin-bottom:20px;
+	}
+	.investment_box_wrapper{
+		margin-bottom:100px;
+	}
+	.investment_plans{
+		padding-bottom:20px;
+	}
+	.calc{
+		padding-left:15px;
+	}
+	.calculator_portion {
+		padding-bottom:50px;
+	}
+	.calculator .chart-label{
+		left:108%;
+	}
+	.global_comm_wraper{
+		width:100%;
+	}
+	.global_comm_wraper{
+		padding-bottom:60px;
+	}
+	.zero_balance_wrapper, .howwork_banner_wrapper{
+		width:100%;
+	}
+	.zero_balance_wrapper:after{
+		display:none;
+	}
+	.global_community_wrapper{
+		padding-bottom:100px;
+	}
+	.zero_commisition{
+		padding-left:35px;
+	}
+	.zero_balance_wrapper{
+		padding-top:80px;
+	}
+	.start_invest_wrap{
+		right:-20%;
+	}
+	.work_banner_wrapper{
+		width:100%;
+		min-height:auto;
+	}
+	.work_banner_wrapper img{
+		min-height:auto;
+	}
+	.howwork_banner_wrapper{
+		min-height:280px;
+		padding-top:100px;
+	}
+	.dark_top_testimonial{
+		margin-top:0;
+		right:0;
+	}
+	.inves_icon{
+		top:106px;
+	}
+	.inves_main_border{
+		margin-top: -151px;
+		padding-top: 145px;
+	}
+	.inves_slider_cntn .investment_box_wrapper{
+		margin-bottom:0;
+	}
+	.testimonial_slider_wrapper .owl-stage-outer{
+		padding-top:0;
+	}
+	.blog_box_wrapper{
+		margin-bottom:50px;
+	}
+	.btc_blog_indx_cont_bottom_left{
+		width:24%;
+	}
+	.our_blog_wrapper{
+		padding-bottom:50px;
+	}
+	.wrapper_second_useful_2{
+		padding-top:50px;
+	}
+	.copyright_wrapper{
+		text-align:center;
+		margin-top:60px;
+	}
+	.copyright, .social_link_foter{
+		float:none;
+		display:inline-block;
+	}
+	.copyright{
+		padding-bottom:0;
+	}
+	.cd-dropdown .cd-close::after, .cd-dropdown .cd-close::before{
+		width:2px;
+		height:16px;
+		top:55%;
+	}
+	.cd-dropdown-content a, .cd-dropdown-content ul a{
+		color:#111;
+	}
+	.cd-dropdown-content li a:hover{
+		background:#00aaef;
+	}
+	.cd-dropdown h2 a{
+		font-size:24px;
+		font-weight:600;
+		color:#00aaef;
+		text-transform:uppercase;
+		letter-spacing:1px;
+	}
+	.cd-dropdown h2{
+		line-height:54px;
+	}
+	.inner_header_wrapper .cd-dropdown-wrapper{
+		padding-top:12px;
+	}
+	.border_about_wrapper{
+		padding:0;
+		border:0;
+	}
+	.sv_abt_img_wrapper  img{
+		width:100%;
+	}
+	.sv_abt_content_wrapper{
+		padding-left:20px;
+		padding-top:50px;
+	}
+	.sv_abt_content_wrapper:after{
+		left: -1px;
+		top: 53px;
+	}
+	.sv_money_text_wrapper{
+		padding-right:0;
+		padding-bottom:30px;
+	}
+	.blog_pagination_section{
+		margin-bottom:50px;
+	}
+	.blog_category_wrapper{
+		padding-bottom:60px;
+	}
+	 .blog_image_single img{
+		width:100%;
+	}
+	.blog_text_single{
+		width:100%;
+		padding-left:0;
+		padding-top:25px;
+	}
+	.blog_image_single{
+		width:100%;
+	}
+	.blog_single_text{
+		padding-top:20px;
+	}
+	.tb_btm_link_left{
+		width:100%;
+	}
+	.tb_btm_link_right{
+		float:left;
+		width:100%;
+		padding-top:20px;
+	}
+	.tb_btm_link_right ul{
+		float:left;
+	}
+	.comments_form {
+		padding-bottom:50px;
+	}
+	.login_banner_wrapper {
+		min-height: 500px;
+		width: 100%;
+		background-position: center -120px;
+	}
+	.login_form_wrapper {
+		padding: 80px 70px 80px 70px;
+		width: 100%;
+	}
+	.icon_form {
+		padding-bottom:0;
+	}
+	.facebook_wrap{
+		margin-bottom:10px;
+	}
+	.jp_regis_center_tag_wrapper{
+		lefT:0;
+		right:0;
+		margin:0px auto;
+		top:auto;
+		bottom:-30px;
+	}
+	.register_wrapper{
+		padding:70px 40px 20px 40px
+	}
+	.crm_message_dropbox_wrapper .nice-select i:before{
+		font-size:18px;
+	}
+	.crm_profile_dropbox_wrapper .current {
+		font-size: 16px;
+	}
+	.crm_message_dropbox_wrapper{
+		padding-right:10px;
+	}
+	.crm_profile_dropbox_wrapper .list, .crm_message_dropbox_wrapper .nice-select .list{
+		margin-top:0;
+	}
+	.useriimg{
+		width:100%;
+		text-align:center;
+		margin-bottom:10px;
+	}
+	.userdet{
+		width:42%;
+	}
+	.user_transcation {
+		width: 25%;
+	}
+	.crm_customer_table_main_wrapper .table .width_table1{
+		width:250px !important; 
+	}
+	.crm_customer_table_main_wrapper table.dataTable thead .sorting, .crm_customer_table_main_wrapper table.dataTable thead .sorting_asc{
+		background-image:none;
+	}
+	.profile_list li .detail_left_part{
+		width:36%;
+	}
+	.sv_pricing_border{
+		margin-bottom:70px;
+	}
+	.payment_mode_wrapper{
+		padding-top:0;
+	}
+	.release{
+		width: 230px;
+	}
+	.referal_list li .detail_left_part {
+		width: 55%;
+	}
+	.banner_img_wrapper{
+		width:100%;
+		margin-bottom:0;
+	}
+	.banner_cnctnt_wrapper{
+		width:100%;
+		padding-top:30px;
+		padding-left:0;
+		padding-bottom:70px;
+	}
+	.banner_top_wrapper  .view_profile_wrapper{
+		padding-bottom:0;
+	}
+	.l-sidebar{
+		display:none;
+	}
+	.l-main{
+		padding-left:0;
+	}
+	.useriimg img{
+		width:auto;
+	}
+	.dashboard_header_middle .cd-dropdown-wrapper{
+		margin-right:-10px;
+	}
+	.dashboard_right_Wrapper{
+		position:absolute;
+		top: 16px;
+		right: 75px;
+		display:block;
+		width:auto;
+	}
+	.crm_mess_all_main_box_wrapper p, .crm_mess_img_cont_wrapper p {
+		display: block;
+	}
+	.index_investment .investment_icon_circle{
+		top:-40px;
+	}
+	.crm_left_footer_cont p{
+		margin-left:0;
+	}
+	.dashboard_header_middle{
+		position:relative;
+		z-index:1;
+	}
+	.page_title_section{
+		position:relative;
+		margin-top:0;
+	}
+	.account_top_information{
+		margin-top:0;
+	}
+	.inner_header_wrapper{
+		position:relative;
+	}
+	.fixed_portion{
+		margin-top:0;
+	}
+	.index2_sliderbg{
+		display:none;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .caption-1, .slider_index2_wrapper .carousel-inner .carousel-item .caption-2, .slider_index2_wrapper  .carousel-inner .carousel-item .caption-3{
+		min-height:750px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content{
+		padding-top:140px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-indicators{
+		margin-left:10%;
+		bottom:16%;
+	}
+	.index2_abt_img_wrapper{
+		position:relative;
+		margin-bottom:30px;
+	}
+	.index2_about_us_wrapper{
+		padding-bottom:100px;
+	}
+	.index2_investment_box_Wraper, .index2_service_box{
+		margin-bottom:50px;
+	}
+	.index2_our_service_wrapper{
+		padding-bottom:50px;
+	}
+	.index2_inves_slider_cntnt{
+		padding:10px;
+	}
+	.slider_index2_wrapper{
+		background:#f9f9f9;
+	}
+	.index2_header_wrapper .house_toggle .menubar {
+		fill: #00aaef;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3{
+		margin-bottom:50px;
+	}
+	.saying_img_name h1{
+		font-size:16px;
+	}
+	.slider_index3_wrapper{
+		margin-top:0;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h3{
+		margin-bottom:15px;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2:before{
+		left:39%;
+	}
+	.index3_about_img_wrapper{
+		display:none;
+	}
+	.index2_global_community_wrapper {
+		padding-bottom:100px;
+	}
+	.index3_investment_box{
+		padding:0;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-indicators{
+		margin-left:0;
+	}
+	.index3_header_wrapper .house_toggle .menubar {
+		fill: #f46b45;
+	}
+	.index3_cd_dropdown h2 a{
+		color:#f46b45;
+		display:block;
+		padding-top:6px;
+	}
+	.index3_cd_dropdown .cd-dropdown-content li a:hover {
+		background: #f46b45;
+	}
+	.index3_about_us {
+		padding-top:0;
+	}
+	.btm_investment_wrapper{
+		margin-top:-220px;
+	}
+}
+@media (min-width: 766px) and (max-width: 990px){
+	.carousel-nevigation{
+		left:80px;
+	}
+}
+@media (max-width: 767px){
+	.calculator .chart-label {
+		left: 102%;
+	}	
+	.zero_commisition{
+		width:100%;
+	}
+	.start_invest_wrap{
+		width:100%;
+		position:relative;
+		right:0;
+		left:35px;
+		top:30px;
+	}
+	.x_offer_tabs_wrapper{
+		float:left;
+	}
+	.table_next_race table tr td:first-child span{
+		margin-left:0;
+	}
+	.service_box{
+		padding:50px 15px 30px 15px;
+	}
+	.investment_content_wrapper h1 a{
+		font-size:22px;
+	}
+	.btc_blog_indx_cont_bottom_left {
+		width: 29%;
+	}
+	.payment_slider_wrapper{
+		padding-top:60px;
+	}
+	.payment_slider_wrapper .owl-theme .owl-nav{
+		top:-85px;
+	}
+	.wrapper_second_about{
+		padding-bottom:50px;
+	}
+	.global_comm_wraper{
+		padding-left:15px;
+	}
+	.counter_cntnt_box{
+		margin-bottom:100px;
+	}
+	.counter_section{
+		padding-bottom:0;
+	}
+	.lest_news_cont_bottom li{
+		margin-right:25px;
+	}
+	.blog_single_box{
+		padding:50px 0;
+	}
+	.blog_text_single li a i{
+		margin-right:10px;
+	}
+	.login_banner_wrapper {
+		background-position: center 0;
+	}
+	.login_form_wrapper{
+		padding:70px 50px 50px 50px;
+	}
+	.register_contact{
+		width:100%;
+		padding-right:0;
+	}
+	.pass{
+		padding-right:0;
+	}
+	.register_contact i, .pass i{
+		right:20px;
+	}
+	.register_btn{
+		padding-right:0;
+	}
+	.register_wrapper {
+		padding: 70px 40px 20px 40px;
+	}
+	.userdet{
+		width:100%;
+	}
+	.none_headung{
+		display:none;
+	}
+	dl.userdescc dt {
+		font-size: 16px;
+	}
+	.uderid{
+		margin-bottom:13px;
+	}
+	.crm_top_toggle_wrapper{
+		width:40%;
+	}
+	.crm_top_toggle_right_wrapper{
+		width:60%;
+	}
+	.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_paginate{
+		float:left;
+		text-align:left;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_paginate{
+		float:right;
+		width:358px;
+		margin-bottom:10px;
+	}
+	.profile_list li .detail_left_part{
+		width:45%;
+	}
+	.radio {
+		margin-right: 0;
+		width: 160px;
+	}
+	.deposit_tab_wrapper .nav-tabs .nav-link{
+		padding:12px 14px;
+	}
+	.deposit_tab_wrapper{
+		text-align:center;
+	}
+	.deposit_tab_wrapper .nav li{
+		float:none;
+		display:inline-block;
+	}
+	.p-curve, .media-body {
+		width:120px;
+	}
+	.release{
+		width: 230px;
+	}
+	.referal_list li .detail_left_part {
+		width: 67%;
+	}
+	.referal_list li .detail_right_part{
+		width:20%;
+	}
+	.referal_list li .detail_right_part:after{
+		left:-37px;
+	}
+	.banner_img_wrapper{
+		width:100%;
+		margin-bottom:0;
+	}
+	.banner_cnctnt_wrapper{
+		width:100%;
+		padding-top:30px;
+		padding-left:0;
+		padding-bottom:70px;
+	}
+	.banner_top_wrapper  .view_profile_wrapper{
+		padding-bottom:0;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2:before{
+		left:53%;
+	}
+}
+@media (max-width: 640px){
+	.dataTables_wrapper .dataTables_length{
+		float:left;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_filter{
+		float:right;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_paginate{
+		float:left;
+	}
+	
+}
+@media (max-width: 650px){
+	.carousel-nevigation{
+		left:60px;
+	}	
+	.calculator .graph-area{
+		width:430px;
+	}
+	.howwork_banner_wrapper{
+		padding-left:30px;
+	}
+}
+@media (max-width: 580px){
+	.carousel-nevigation{
+		left:35px;
+	}
+	.about_img_wrapper:before{
+		display:none;
+	}
+	.calculator .graph-area{
+		width:100%;
+	}
+	.calculator .chart-label .amt{
+		font-size:20px;
+		line-height:20px;
+	}
+	.calculator .chart-label{
+		top:45px;
+		left:8%;
+	}
+	.calculator .mf-yAxis{
+		left:-50px;
+	}
+	.work_checklist_wrapper li{
+		margin-right:15px;
+	}
+	.partner_img_wrapper{
+		float:none;
+		display:inline-block;
+	}
+	.sub_title_section{
+		float:left;
+		top:0;
+	}
+	.sv_money_text_wrapper h2{
+		font-size:46px;
+		line-height:48px;
+	}
+	.wrapper_second_links{
+		padding-top:0;
+	}
+	.lest_news_cont_bottom li {
+		margin-right: 15px;
+	}
+	.blog_pagination_section ul li{
+		margin-left:8px;
+	}
+	.dataTables_wrapper .dataTables_length{
+		width:100%;
+		text-align:left;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_filter{
+		float:left; width:100%;
+		text-align:left;
+	}
+	.payment_gateway_wrapper{
+		float:left;
+		width:100%;
+		margin-bottom:20px;
+	}
+	.payment_gateway_wrapper .nice-select{
+		width:350px;
+	}
+	.payment_gateway_wrapper .nice-select .list{
+		width:100%;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_filter input{
+		width:360px;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_filter input {
+		width: 282px;
+	}
+	.profile_list li .detail_left_part{
+		width:100%;
+	}
+	.profile_list li .detail_right_part{
+		margin-top:10px;
+		width:100%;
+	}
+	.profile_list li .detail_right_part:after {
+		left: 155px;
+		top: -32px;
+	}
+	.crm_title_heading_wrapper ul{
+		float:left;
+		width:100%;
+	}
+	.inne_title_wrap{
+		width:100%;
+	}
+	.crm_title_heading_wrapper{
+		float:left;
+		width:100%;
+	}
+	.acc_balance_btn p{
+		margin:0;
+		margin-bottom:10px;
+	}
+	.profile_view_img{
+		width:150px;
+	}
+	.profile_width_cntnt {
+		width: calc(100% - 150px);
+		padding-top: 28px;
+	}
+	.deposit_tab_wrapper .nav{
+		border-radius:20px;
+	}
+	.banner_img_wrapper{
+		width:100%;
+		margin-bottom:0;
+	}
+	.banner_cnctnt_wrapper{
+		width:100%;
+		padding-top:30px;
+		padding-left:0;
+		padding-bottom:70px;
+	}
+	.banner_top_wrapper  .view_profile_wrapper{
+		padding-bottom:0;
+	}
+	.crm_profile_dropbox_wrapper{
+		display:none;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3, .slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3 span{
+		font-size:40px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-indicators {
+		margin-left: 3%;
+	}
+	.index2_abt_img_wrapper img{
+		display:none;
+	}
+	.index2_about_us_wrapper .about_content_wrapper{
+		padding-top:0;
+	}
+	.index2_about_us_wrapper{
+		padding-top:80px;
+	}
+	.saying_slider .owl-theme .owl-nav .owl-next{
+		right:0;
+	}
+	.saying_slider .owl-theme .owl-nav .owl-prev{
+		left:0;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2:before{
+		left:60%;
+	}
+}
+@media (max-width: 480px){
+	.cd-dropdown{
+		width:350px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h3{
+		font-size:40px;
+		line-height:50px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2{
+		font-size:36px;
+	}
+	.sv_heading_wraper h3{
+		font-size:32px;
+		line-height:42px;
+	}
+	.calculator .chart-label{
+		left:10%;
+	}
+	.zero_balance_wrapper{
+		padding-top:60px;
+	}
+	.work_content_wrap{
+		width:100%;
+		padding-left:0;
+		padding-top:20px;
+	}
+	.ts_client_cont_wrapper{
+		padding:30px;
+	}
+	.investors_slider_wrapper .owl-theme .owl-nav{
+		top:-100px;
+	}
+	.investors_slider_wrapper{
+		padding-top:70px;
+	}
+	.inves_main_border{
+		margin-top:-170px;
+	}
+	.global_comm_wraper{
+		padding-right:0;
+	}
+	.btc_blog_indx_cont_bottom_left{
+		width:36%;
+	}
+	.wrapper_second_links{
+		padding-top:0;
+	}
+	.login_form_wrapper{
+		padding:50px 20px 40px 20px;
+	}
+	.register_wrapper {
+		padding: 70px 20px 20px 20px;
+	}
+	.crm_notify_dropbox_wrapper .nice-select .list, .crm_message_dropbox_wrapper .nice-select .list{
+		right: -20px;
+	}
+	.crm_fb_inner_wreapper .nav li{
+		width:100%;
+	}
+	.crm_login_img_wrapper img{
+		width:100%;
+	}
+	.crm_top_toggle_wrapper{
+		width:20%;
+	}
+	.crm_top_toggle_right_wrapper{
+		width:80%;
+	}
+	.crm_title_heading_wrapper{
+		float:left;
+		width:100%;
+	}
+	.crm_title_heading_wrapper ul{
+		float:left;
+	}
+	.payment_gateway_wrapper .nice-select{
+		width:100%;
+	}
+	.profile_list li .detail_right_part:after {
+		left: 155px;
+		top: -33px;
+	}
+	.email_notify_top{
+		padding:25px;
+	}
+	.profile_width_cntnt{
+		width:100%;
+		padding-top:0;
+		padding-bottom:30px;
+	}
+	.banner_img_wrapper{
+		width:100%;
+		margin-bottom:0;
+	}
+	.banner_cnctnt_wrapper{
+		width:100%;
+		padding-top:30px;
+		padding-left:0;
+		padding-bottom:70px;
+	}
+	.banner_top_wrapper  .view_profile_wrapper{
+		padding-bottom:0;
+	}
+	.slider_index2_wrapper  .carousel-inner .carousel-item .carousel-captions .content h2{
+		font-size:20px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3, .slider_index2_wrapper .carousel-inner .carousel-item .carousel-captions .content h3 span{
+		font-size:34px;
+	}
+	.slider_index2_wrapper .carousel-inner .carousel-indicators{
+		bottom:13%;
+	}
+	.calculator_index2 .graph-area {
+		width: 533px;
+	}
+	.calculator_index2 #graph {
+		width: 100%;
+		height: 276px;
+	}
+	.index2_inves_slider_cntnt{
+		padding:25px;
+	}
+	.index3_offer_tabs .nav-tabs .nav-link{
+		padding:12px 30px;
+	}
+	.index3_service_box .investment_icon_circle{
+		left:0;
+	}
+	.index3_investment_box{
+		padding:0;
+	}
+}
+@media (max-width: 440px){
+	.ts_img_social_wrapper{
+		padding-left:20px;
+		padding-right:0;
+	}
+	.btc_blog_single_post_admin_img_cont{
+		width:100%;
+		padding-left:0;
+		padding-top:20px;
+	}
+	.cancel_wrapper{
+		margin-left:7px;
+	}
+	.dashboard_right_Wrapper{
+		display:none;
+	}
+}
+@media (max-width: 380px){
+	.howwork_banner_wrapper{
+		padding-top:60px;
+		padding-bottom:70px;
+	}
+	.cd-dropdown {
+		width: 300px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content .slider_btn li:first-child{
+		margin-bottom:15px;
+	}
+	.welcome_save_inpvate_wrapper li a{
+		font-size:20px;
+	}
+	.calculator .chart-label.label-regular{
+		top:100px;
+	}
+	.save_newsletter_field input{
+		width:95%;
+	}
+	.save_newsletter_field button{
+		margin-left:0;
+		margin-top:15px;
+	}
+	.refreal_btn h3{
+		margin-right:15px;
+	}
+	.btc_blog_indx_cont_bottom_left{
+		width:48%;
+	}
+	.btc_blog_indx_cont_bottom_right{
+		width:50%;
+	}
+	#accordion .card-body .card_cntnt{
+		width:100%;
+		padding-left:0;
+		padding-top:20px;
+	}
+	.sv_abt_content_wrapper p{
+		font-size:16px;
+		line-height:20px;
+	}
+	.sv_money_text_wrapper h1{
+		font-size:24px;
+	}
+	.sv_money_text_wrapper h2{
+		font-size:32px;
+		line-height:40px;
+	}
+	.lest_news_cont_wrapper{
+		padding:25px;
+	}
+	.lest_news_cont_bottom li{
+		float:left;
+		width:100%;
+	}
+	.blog_pagination_section .prev, .blog_pagination_section .next{
+		width:60px;
+	}
+	.blog_pagination_section ul li{
+		margin-top:10px;
+	}
+	.login_remember_box .control{
+		padding-left:15px;
+	}
+	.tb_btm_link_left li a{
+		margin-bottom:6px;
+	}
+	.comments_Box .text_wrapper{
+		width:100%;
+		padding-left:0;
+		padding-top:20px;
+	}
+	.tb_btm_link_right li{
+		margin-right:6px;
+	}
+	.btc_blog_post_admin_main_wrapper{
+		padding:25px;
+	}
+	.hwd h3{
+		font-size:28px;
+	}
+	.crm_notify_dropbox_wrapper .nice-select .list, .crm_message_dropbox_wrapper .nice-select .list {
+		right: -38px;
+	}
+	.sv_heading_wraper h3{
+		font-size:28px;
+	}
+	.crm_customer_table_main_wrapper .dataTables_wrapper .dataTables_filter input{
+		width:100%;
+	}
+	.crm_message_dropbox_wrapper .nice-select .list{
+		width:230px;
+	}
+	.dataTables_wrapper .dataTables_filter input{
+		margin-left:0;
+	}
+	.radio{
+		width:100%;
+		margin-bottom:30px;
+	}
+	.change_password_wrapper{
+		padding:25px;
+	}
+	.crm_top_toggle_wrapper{
+		width:15%;
+	}
+	.crm_message_dropbox_wrapper {
+		padding-right: 1px;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2{
+		font-size:18px;
+	}
+	.slider_index3_wrapper .carousel-inner .carousel-item .carousel-captions .content h2:before{
+		display:none;
+	}
+}
+@media (max-width: 320px){
+	.crm_top_toggle_wrapper{
+		width:10%;
+	}
+	.crm_top_toggle_right_wrapper{
+		width:90%;
+		margin-right:15px;
+	}
+	.crm_message_dropbox_wrapper{
+		padding-right:0;
+	}
+	.crm_profile_dropbox_wrapper .list{
+		right:-33px;
+	}
+	.account_wrapper{
+		padding:50px 20px 0 20px;
+	}
+	.view_profile_wrapper{
+		padding:20px;
+	}
+}
